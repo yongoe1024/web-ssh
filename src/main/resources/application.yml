@@ -1,0 +1,15 @@
+server:
+  port: 8765
+spring:
+  banner:
+    location: /banner.txt
+  servlet:
+    multipart:
+      max-file-size: 4GB
+      max-request-size: 4GB
+
+ssh:
+  username: ubuntu
+  password: 13843831304Gy
+  port: 22
+  host: localhost
