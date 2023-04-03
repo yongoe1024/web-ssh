@@ -10,6 +10,6 @@ spring:
 
 ssh:
   username: ubuntu
-  password: 13843831304Gy
+  password: 111111
   port: 22
   host: localhost
